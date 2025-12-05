@@ -2,5 +2,5 @@
 
 <h2>Here are my projects:</h2>
 
-- <b>Drone Reconnaissance Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Drone Reconnaissance Simulation</b>
+  - https://github.com/DanielpBen/drone-reconnaissance-simulation
